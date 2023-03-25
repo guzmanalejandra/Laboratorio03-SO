@@ -1,0 +1,2 @@
+/home/ale/simple.o
+
